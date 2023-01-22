@@ -1,1 +1,1 @@
-# A simple Chrome extension that saves current tab's URL to browser's localStorage and lists them.
+A simple Chrome extension that saves current tab's URL to browser's localStorage and lists them.
